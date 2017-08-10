@@ -5,13 +5,13 @@
  */
 package doodle;
 
+import java.util.ArrayList;
+
 
 
 
 public class Doodle {
-    public static void main(String[] args) {
-        System.out.println(.1 + .2);
-    }
+    
 }
 
 
